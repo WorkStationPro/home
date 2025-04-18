@@ -1,14 +1,12 @@
 [
   {
-    "name": "京东",
-    "url": "https://www.jd.com",
-    "icon": "iconfont icon-jd",
+    "name": "CloudFlare",
+    "url": "https://www.cloudflare.com",
     "color": "d92610"
   },
   {
-    "name": "淘宝",
-    "url": "https://www.taobao.com",
-    "icon": "iconfont icon-taobao",
+    "name": "Spycolor",
+    "url": "https://zh.spycolor.com",
     "color": "ff8300"
   },
   {
